@@ -1,2 +1,3 @@
 This is the first entry in test1.txt 
 This is the cecond entry to master
+New entry in the master branch
